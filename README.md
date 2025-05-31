@@ -1,3 +1,5 @@
+# The current version is a pre-review for paper review.
+
 # RBench
 
 Towards High Robust Vision-Language Large Models: Benchmark and Method [Paper]
@@ -10,7 +12,10 @@ A real-world, high-quality, and challenging benchmark to evaluate the robustness
 
 The download links of annotations and images are given as follows (v0.0.1):
 
-[Download Link]
+[Download Link](RBench_images.zip
+)
+
+Note that this release is only for paper review. The official release will be given soon.
 
 ## Evaluations
 
